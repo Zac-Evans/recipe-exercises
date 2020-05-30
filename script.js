@@ -10,3 +10,12 @@ function marinaraSauce(cookName) {
 }
 
 marinaraSauce(("Adam"))
+
+// test
+
+function myFunc(name, otherName) {
+    console.log("Hello, " + name + "!")
+    console.log("Hello again " + otherName + "!")
+}
+
+myFunc ("Adam", "Dad")
